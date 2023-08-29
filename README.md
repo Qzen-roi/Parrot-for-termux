@@ -24,4 +24,4 @@ $ bash parrot.sh
 ________________________________
 or Direct paste this
 
-$ apt update;apt upgrade -y;apt install curl wget -y;wget https://raw.githubusercontent.com/Qzen-roi/Parrot-for-termux/main/parrot.sh;bash parrot.sh;
+$    apt update;apt upgrade -y;apt install curl wget -y;wget https://raw.githubusercontent.com/Qzen-roi/Parrot-for-termux/main/parrot.sh;clear;bash parrot.sh;
